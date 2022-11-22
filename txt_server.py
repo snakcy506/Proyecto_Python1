@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Import socket
 import socket
 # Comando universal para la utilizacion de socket
