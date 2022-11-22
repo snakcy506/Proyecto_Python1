@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Se imprtorta vidsteam la cual debe ser instalada previamente
 # Importar SteamingServer de Vidstream
 from vidstream import StreamingServer
