@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import socket
 # Comando universal para la utilizacion de socket
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
