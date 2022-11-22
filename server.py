@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Importa socket y threading para creacion, ejecucion y envio de informacion del servidor
 import socket
 import threading
