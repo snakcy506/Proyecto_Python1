@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Gabriel Baltodano Dormond C00906
 # Enrique Munoz Vieto C15396
 # Se importa la biblioteca pygame para realizar el pictionary y sys para cerrar
