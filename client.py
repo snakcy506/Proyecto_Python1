@@ -134,8 +134,9 @@ def juego():
                 inicioColor,
                 [dx, dy],
                 tamanolapiz,
-                threading.Thread(target=recvmsg).start()
+                
              )
+            threading.Thread(target=recvmsg).start()
         # guia para obsrvar adonde se esta dibujando
 
         pygame.display.flip()
